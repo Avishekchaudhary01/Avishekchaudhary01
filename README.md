@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 🚀 **About Me**<br><br>🔭 **Currently working on AI & Full Stack Web Development Projects**<br><br>🌱 **Learning Artificial Intelligence, Machine Learning, DSA, React.js, and Node.js**<br><br>👯 **Open to collaborating on Open Source, AI, and Innovative Web Projects**<br><br>🤝 **Exploring Backend Development & Scalable System Design**<br><br>💬 **Ask me about Java, Flutter, Web Development, and Programming**<br><br>⚡ **Passionate about building real-world applications and exploring modern technologies**<br><br>🎯 **Goal: To become a successful AI Engineer & Full Stack Developer**<br>
+# 👋 Hi, I'm **Avishek Chaudhary**<br><br>### 🚀 About Me<br><br>🔭 Working on **AI & Full Stack Web Development Projects**<br>🌱 Learning **AI, ML, DSA, React.js, and Node.js**<br>👯 Open to collaborating on **Open Source & AI Projects**<br>💬 Ask me about **Java, Flutter, and Web Development**<br>⚡ Passionate about **building real-world applications**<br>🎯 Aspiring **AI Engineer & Full Stack Developer**<br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=Avishekchaudhary01&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Avishekchaudhary01&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Avishekchaudhary01&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Avishekchaudhary01&theme=solarized-light&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
